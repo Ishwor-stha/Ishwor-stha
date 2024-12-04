@@ -17,7 +17,9 @@
 ---
 
 ### 💻 **What I’m Currently Doing**
-- 🔭 Working on: [Travel and Tour API](https://github.com/Ishwor-stha/Backend)  
+- 🔭 Working on:  
+  - [Travel and Tour API](https://github.com/Ishwor-stha/Backend)  
+  - Hospital Management Backend *(Private Repository)*  
 - 🌱 Learning: **Node.js**, **Express.js**, **MongoDB**
 
 ---
@@ -66,24 +68,22 @@
 
 ---
 
-### 🚀 **GitHub Activity**
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishwor-stha&theme=rogue" alt="GitHub Contribution Graph" />
-</p>
+### 🐾 **Fun Widgets**
 
----
-
-### 🐾 **Fun Facts**
-- 🎮 I enjoy playing strategy games in my free time.  
-- 🌍 Always curious about emerging tech trends.  
-- 💡 Motto: "Never stop learning, because life never stops teaching."  
-
----
-
-### 🎨 **Profile Views**
+#### 🏅 **Profile Badge**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishwor-stha&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
+#### 🎮 **Fun Fact:**
+- **I enjoy playing strategy games in my free time.**
+- **I'm always exploring new tech innovations!**
+- **Motto:** "Never stop learning, because life never stops teaching."  
 
+#### 🌱 **Current Learning Path:**
+- **Node.js**  
+- **Express.js**  
+- **MongoDB**
+
+---
 
