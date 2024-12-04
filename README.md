@@ -68,13 +68,11 @@
 
 ---
 
-### 🎉 **Fun Widgets**
+### 🎉 **Quote**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspiring Quote">
   <br/>
-  <img src="https://github-readme-generator.vercel.app/api/wakatime?username=ishwor&theme=radical" alt="Coding Activity">
-  <br/>
-  <img src="https://weather-icon-generator.vercel.app/api/weather?city=Kathmandu&theme=radical" alt="Weather in Kathmandu">
+  
 </p>
 
 ---
