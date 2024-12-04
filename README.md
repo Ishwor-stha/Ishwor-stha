@@ -68,22 +68,25 @@
 
 ---
 
-### 🐾 **Fun Widgets**
-
-#### 🏅 **Profile Badge**
+### 🎉 **Fun Widgets**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishwor-stha&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspiring Quote">
+  <br/>
+  <img src="https://github-readme-generator.vercel.app/api/wakatime?username=ishwor&theme=radical" alt="Coding Activity">
+  <br/>
+  <img src="https://weather-icon-generator.vercel.app/api/weather?city=Kathmandu&theme=radical" alt="Weather in Kathmandu">
 </p>
-
-#### 🎮 **Fun Fact:**
-- **I enjoy playing strategy games in my free time.**
-- **I'm always exploring new tech innovations!**
-- **Motto:** "Never stop learning, because life never stops teaching."  
-
-#### 🌱 **Current Learning Path:**
-- **Node.js**  
-- **Express.js**  
-- **MongoDB**
 
 ---
 
+### 🐾 **Fun Facts**
+- 🎮 I enjoy playing strategy games in my free time.  
+- 🌍 Always curious about emerging tech trends.  
+- 💡 Motto: "Never stop learning, because life never stops teaching."  
+
+---
+
+### 🎨 **Profile Views**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishwor-stha&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
