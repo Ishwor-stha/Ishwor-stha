@@ -78,7 +78,7 @@
 ---
 
 ### 🐾 **Fun Facts**
-- 🎮 I enjoy playing strategy games in my free time.  
+- 🎮 I enjoy playing games in my free time.  
 - 🌍 Always curious about emerging tech trends.  
 - 💡 Motto: "Never stop learning, because life never stops teaching."  
 
