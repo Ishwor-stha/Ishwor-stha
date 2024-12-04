@@ -27,7 +27,7 @@
 ### 📫 **How to Reach Me**
 - 📧 Email: [ishwor.stha.bank@gmail.com](mailto:ishwor.stha.bank@gmail.com)  
 - 🌐 LinkedIn: [Ishwor Shrestha](https://linkedin.com/in/ishwor-shrestha-116310259)  
--  [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white&style=for-the-badge)] [@ishwor299](https://x.com/@ishwor299)
+-  ![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white&style=for-the-badge) [@ishwor299](https://x.com/@ishwor299)
 
 ---
 
