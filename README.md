@@ -10,14 +10,14 @@
 ### 🏆 **GitHub Achievements**
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ishwor-stha&theme=onedark&row=1&column=6" alt="GitHub Achievements" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ishwor-stha&theme=gruvbox&row=1&column=6" alt="GitHub Achievements" />
   </a>
 </p>
 
 ---
 
 ### 💻 **What I’m Currently Doing**
-- 🔭 Working on: [Travel and Tour API](https://github.com/Ishwor-stha/Backend)
+- 🔭 Working on: [Travel and Tour API](https://github.com/Ishwor-stha/Backend)  
 - 🌱 Learning: **Node.js**, **Express.js**, **MongoDB**
 
 ---
@@ -25,7 +25,7 @@
 ### 📫 **How to Reach Me**
 - 📧 Email: [ishwor.stha.bank@gmail.com](mailto:ishwor.stha.bank@gmail.com)  
 - 🌐 LinkedIn: [Ishwor Shrestha](https://linkedin.com/in/ishwor-shrestha-116310259)  
-- 🐦 Twitter: [@ishwor299](https://twitter.com/@ishwor299)  
+- 🐦 Twitter: [@ishwor299](https://twitter.com/@ishwor299)
 
 ---
 
@@ -63,3 +63,27 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishwor-stha&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+### 🚀 **GitHub Activity**
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishwor-stha&theme=rogue" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+### 🐾 **Fun Facts**
+- 🎮 I enjoy playing strategy games in my free time.  
+- 🌍 Always curious about emerging tech trends.  
+- 💡 Motto: "Never stop learning, because life never stops teaching."  
+
+---
+
+### 🎨 **Profile Views**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishwor-stha&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
+
+
