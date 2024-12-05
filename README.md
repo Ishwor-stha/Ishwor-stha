@@ -19,7 +19,7 @@
 ### 💻 **What I’m Currently Doing**
 - 🔭 Working on:  
   - [Travel and Tour API](https://github.com/Ishwor-stha/Backend)  
-  - Hospital Management *(Private Repository)*  
+  - [HOSPITAL API](https://github.com/Ishwor-stha/hospital)
 - 🌱 Learning: **Node.js**, **Express.js**, **MongoDB**
 
 ---
