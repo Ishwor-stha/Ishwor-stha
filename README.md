@@ -20,7 +20,7 @@
 - 🔭 Working on:  
   - [Travel and Tour API](https://github.com/Ishwor-stha/Backend)  
   - [HOSPITAL API](https://github.com/Ishwor-stha/hospital)
-- 🌱 Learning: **Node.js**, **Express.js**, **MongoDB**
+- 🌱 Learning: **Node.js**, **Express.js**, **MongoDB**,**mysql**
 
 ---
 
