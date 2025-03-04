@@ -58,16 +58,6 @@
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishwor-stha&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwor-stha&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishwor-stha&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ### 🎉 **Quote**
 <p align="center">
@@ -85,7 +75,3 @@
 
 ---
 
-### 🎨 **Profile Views**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishwor-stha&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
