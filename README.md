@@ -36,7 +36,6 @@
 <p align="center">
   <a href="https://twitter.com/@ishwor299" target="_blank"><img src="https://img.shields.io/twitter/follow/@ishwor299?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/ishwor-shrestha-116310259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://fb.com/profile.php?id=61555879275662&mibextid=zbwkwl" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.leetcode.com/esor-shrestha" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
